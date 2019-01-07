@@ -1,2 +1,2 @@
 # user
-user repo
+user repo for git commands demonstration
